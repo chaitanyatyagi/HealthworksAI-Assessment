@@ -7,7 +7,9 @@ def generate_raw_text(prompt):
     Used for conversational queries and code generation where JSON is not required.
     """
     payload = {
-        "model": "qwen2.5:7b", # Using your exact model
+        "model": "qwen2.5-coder:1.5b", # Using your exact model
+        # "model": "qwen2.5:3b",
+        # "model": "llama3.2:3b",
         "prompt": prompt,
         "stream": False,
         "options": {"temperature": 0}
@@ -61,7 +63,8 @@ def extract_from_chunk(chunk):
     Simpler, cleaner extraction logic that handles LLM noise by finding JSON boundaries.
     """
     payload = {
-        "model": "qwen2.5:7b",
+        "model": "qwen2.5-coder:1.5b",
+        # "model": "llama3.2:3b",
         "prompt": PROMPT_TEMPLATE.format(chunk=chunk),
         "stream": False,
         "options": {"temperature": 0}

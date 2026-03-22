@@ -11,8 +11,10 @@ from pipeline.llm_handler import generate_raw_text
 # -------------------------------
 # CONFIG
 # -------------------------------
-INTENT_MODEL = "qwen2.5:7b"
-REASONING_MODEL = "qwen2.5:7b"
+INTENT_MODEL = "qwen2.5-coder:1.5b"
+REASONING_MODEL = "deepseek-r1:latest"
+# INTENT_MODEL = "llama3.2:3b"
+# REASONING_MODEL = "llama3.2:3b"
 
 # -------------------------------
 # 1. INTENT EXTRACTION — add complex_analysis category

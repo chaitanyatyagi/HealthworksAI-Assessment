@@ -201,19 +201,47 @@ def get_pdf_files(folder_path):
         if f.lower().endswith(".pdf")
     ])
 
+# def process_single_file(file_path):
+#     try:
+#         print("inside very first !!")
+#         chapter4_text = extract_chapter_4(file_path)
+#         chunks = chunk_text(chapter4_text)
+#         results = []
+#         for chunk in chunks:
+#             output = extract_from_chunk(chunk)
+#             results.append(output)
+#         structured_data = aggregate_results(results)
+#         filename = Path(file_path).stem
+#         df = to_dataframe(structured_data, filename)
+#         return df
+#     except Exception as e:
+#         st.error(f"Error in process_single_file for {file_path}: {e}")
+#         return None
+import concurrent.futures
+
 def process_single_file(file_path):
     try:
         print("inside very first !!")
         chapter4_text = extract_chapter_4(file_path)
         chunks = chunk_text(chapter4_text)
+        
         results = []
-        for chunk in chunks:
-            output = extract_from_chunk(chunk)
-            results.append(output)
+        
+        # Determine the number of workers (threads). 
+        # 10 is a good starting point for API calls, adjust based on your needs/rate limits.
+        max_threads = 3 
+        
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max_threads) as executor:
+            # executor.map runs the function across all chunks concurrently.
+            # Crucially, it returns the results in the EXACT same order as the input chunks.
+            results = list(executor.map(extract_from_chunk, chunks))
+            
         structured_data = aggregate_results(results)
         filename = Path(file_path).stem
         df = to_dataframe(structured_data, filename)
+        
         return df
+        
     except Exception as e:
         st.error(f"Error in process_single_file for {file_path}: {e}")
         return None
