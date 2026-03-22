@@ -442,16 +442,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 # ================================
 # SECTION 2 — CHATBOT
 # ================================
-# def process_chat_query(user_input, df=None):
-#     if df is None:
-#         if os.path.exists(CSV_PATH):
-#             df = pd.read_csv(CSV_PATH)
-#         else:
-#             return "Error: No data available."
-#     print("inside here")
-#     intent = get_intent_and_filters(user_input, df.columns.tolist())
-#     relevant_data = retrieve_data(df, intent)
-#     return generate_final_response(user_input, relevant_data)
+
 def process_chat_query(user_input, df=None):
     if df is None:
         if os.path.exists(CSV_PATH):
