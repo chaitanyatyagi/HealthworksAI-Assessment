@@ -1,6 +1,31 @@
 import requests
 import json
 
+def generate_raw_text(prompt):
+    """
+    Sends a prompt to the local Ollama model and returns the raw string response.
+    Used for conversational queries and code generation where JSON is not required.
+    """
+    payload = {
+        "model": "qwen2.5-coder:1.5b", # Using your exact model
+        "prompt": prompt,
+        "stream": False,
+        "options": {"temperature": 0}
+    }
+
+    try:
+        response = requests.post("http://localhost:11434/api/generate", json=payload, timeout=120)
+        
+        if response.status_code == 200:
+            # Extract the raw text from the Ollama response
+            result = response.json()
+            return result.get("response", "")
+        else:
+            return f"Error: LLM API returned status code {response.status_code}"
+            
+    except requests.exceptions.RequestException as e:
+        return f"Error connecting to local LLM: {str(e)}"
+
 # The prompt remains the same to ensure high-quality business logic extraction
 PROMPT_TEMPLATE = """
 Extract structured benefit data from the following Medical Benefits text. 
