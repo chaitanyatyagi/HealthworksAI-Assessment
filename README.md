@@ -212,7 +212,7 @@ Provides the natural language query interface over the extracted data.
 ### Prerequisites
 
 - Python 3.9+
-- An OpenAI API key (used by `llm_handler.py` and the chatbot)
+- An ollama and llm model (used by `llm_handler.py` and the chatbot)
 
 ### Steps
 
@@ -229,9 +229,6 @@ venv\Scripts\activate           # Windows
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Set your OpenAI API key
-export OPENAI_API_KEY="sk-..."  # macOS/Linux
-set OPENAI_API_KEY=sk-...       # Windows CMD
 ```
 
 ### Dependencies (`requirements.txt`)
