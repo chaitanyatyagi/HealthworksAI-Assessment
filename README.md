@@ -67,24 +67,22 @@ PDFs in ./EOC
 ┌─────────────────────────────────────────────────┐
 │                  PIPELINE                        │
 │  parser → chunker → llm_handler → extractor     │
-│                             → formatter          │
-│                             → validator          │
-└────────────────────┬────────────────────────────┘
-                     │
-                     ▼
-              output/output.csv
-                     │
-          ┌──────────┴────────────┐
-          │                       │
-          ▼                       ▼
-   Pipeline Output          Uploaded CSV
-          │                       │
-          └──────────┬────────────┘
-                     │
-                     ▼
-┌─────────────────────────────────────────────────┐
-│                  CHATBOT                         │
-│  get_intent_and_filters → retrieve_data          │
+│                             → formatter          │ Upload csv option
+│                             → validator          │____________________________
+└────────────────────┬────────────────────────────┘                             |
+                     │                                                          |
+                     ▼                                                          |
+              output/output.csv                                                 |
+                     │                                                          |
+                     ▼                                                          ▼
+              Pipeline Output                                               Uploaded CSV
+          └──────────┬────────────┘                                       └─────-────────┘
+                     │                                                           |
+                     │                                                           |
+                     ▼                                                           ▼
+┌─────────────────────────────────────────────────┐.          ┌──────────────────────────────────────┐
+│                  CHATBOT                         │                          CHATBOT 
+│  get_intent_and_filters → retrieve_data          │                     handle_generic_csv
 │                         → generate_final_response│
 │  (or handle_generic_csv for uploaded CSVs)       │
 └─────────────────────────────────────────────────┘
