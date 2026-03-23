@@ -1,0 +1,507 @@
+benefit_name,service_type,cost_sharing,prior_auth,limitations,important_notes,network_info,bid_id
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-022-000
+Chiropractic,Chiropractic Service,No,Yes,None specified,None specified,None specified,H0523-022-000
+Annual Routine Physical,Annual Routine Physical,No,Yes,None specified,None specified,None specified,H0523-022-000
+Emergency Care,Emergency Care,No,Yes,None specified,None specified,None specified,H0523-022-000
+Cardiac Rehab,Cardiac Rehabilitation,No,Yes,None specified,None specified,None specified,H0523-022-000
+Hearing Services,Hearing Service,No,Yes,None specified,None specified,None specified,H0523-022-000
+Ambulance,Ground Ambulance,$275,Yes,"For non-emergency situations, include fixed wing, rotary wing, and ground ambulance services, to the nearest appropriate facility.","Prior authorization is required for all non-emergency transportation, including fixed wing, rotary wing, and ground ambulance services.",,H0523-022-000
+Ambulance,Air Ambulance,$275,Yes,"For non-emergency situations, include fixed wing, rotary wing, and ground ambulance services, to the nearest appropriate facility.","Prior authorization is required for all non-emergency transportation, including fixed wing, rotary wing, and ground ambulance services.",,H0523-022-000
+Annual Routine Physical,Physical Exam,$0,Yes,You may schedule your annual routine physical once each calendar year.,"Note: Your first annual wellness visit can’t take place within 12 months of your Welcome to Medicare preventive visit. However, you don’t need to have had a Welcome to Medicare visit to be covered for annual wellness visits after you’ve had Part B for 12 months.",,H0523-022-000
+Cardiac Rehab,Comprehensive Programs of Cardiac Rehabilitation Services,$0,Yes,Our plan also covers intensive cardiac rehabilitation programs that are typically more rigorous or more intense than cardiac rehabilitation programs.,"There is no coinsurance, copayment, or",,H0523-022-000
+Cardiac Rehab,Intensive Cardiac Rehabilitation Service,$0,Yes,Our plan also covers intensive cardiac rehabilitation programs that are typically more rigorous or more intense than cardiac rehabilitation programs.,"There is no coinsurance, copayment, or",,H0523-022-000
+Cardiovascular Disease Risk Reduction Visit (therapy for cardiovascular disease),Therapy,$0,Yes,"During this visit, your doctor may discuss aspirin use (if appropriate), check your blood pressure, and give you tips to make sure you’re eating healthy.","There is no coinsurance, copayment, or",,H0523-022-000
+Cardiovascular Disease Screening Tests,Blood Tests,$0,Yes,Blood tests for the detection of cardiovascular disease (or testing that is covered once every 5 abnormalities associated with an elevated risk of cardiovascular years).,"There is no coinsurance, copayment, or",,H0523-022-000
+Cervical and Vertebral Fracture Screening,Screening,$0,Yes,,,,H0523-022-000
+Ambulance,Ground Ambulance,,Yes,,,,H0523-022-000
+Chiropractic,Chiropractic visit,$20 copay for each Medicare-covered,Yes,Prior authorization may be required and is the responsibility of your provider.,,,H0523-022-000
+Annual Routine Physical,Annual Routine Physical,,Yes,,,,H0523-022-000
+Emergency Care,Emergency Care,,Yes,,,,H0523-022-000
+Cardiac Rehab,Cardiac Rehab,,Yes,,,,H0523-022-000
+Hearing Services,Hearing Services,,Yes,,,,H0523-022-000
+Ambulance,Ground Ambulance,$150,Yes,Sharing is waived if you are admitted to the hospital within 24 hours.,,,H0523-022-000
+Ambulance,Air Ambulance,$150,Yes,Sharing is waived if you are admitted to the hospital within 24 hours.,,,H0523-022-000
+Chiropractic,N/A,$0,Yes,,,,H0523-022-000
+Annual Routine Physical,N/A,$0,Yes,,,,H0523-022-000
+Emergency Care,N/A,$275,Yes,Sharing is waived if you are admitted to the hospital within 24 hours.,,,H0523-022-000
+Cardiac Rehab,N/A,$0,Yes,,,,H0523-022-000
+Hearing Services,N/A,$0,Yes,,,,H0523-022-000
+Ambulance,Ground Ambulance,$0 copay,Yes,None specified,None specified,None specified,H0523-022-000
+Chiropractic,None specified,$0 copay,Yes,None specified,None specified,None specified,H0523-022-000
+Annual Routine Physical,Physical Exam,$0 copay,Yes,Once per year,None specified,None specified,H0523-022-000
+Emergency Care,Emergency Services,$0 copay,Yes,None specified,None specified,None specified,H0523-022-000
+Cardiac Rehab,Physical Therapy,$0 copay,Yes,Once per year,None specified,None specified,H0523-022-000
+Hearing Services,Diagnostic Hearing and Balance Evaluations,$0 copay,Yes,Once per year,None specified,NationsHearing® network provider,H0523-022-000
+Home health agency care,"Physical Therapy, Occupational Therapy, and Speech Therapy",$0 copay,Yes,None specified,None specified,NationsHearing® network provider,H0523-022-000
+Home infusion therapy,Intravenous or Subcutaneous Administration of Drugs or Biologicals,$0 copay,Yes,None specified,None specified,None specified,H0523-022-000
+Hospice care,"Physical Therapy, Occupational Therapy, and Speech Therapy",$0 copay,Yes,Once per year,None specified,NationsHearing® network provider,H0523-022-000
+Ambulance,Ground Ambulance,None,Yes,None,None,None,H0523-022-000
+Chiropractic,None,None,Yes,None,None,None,H0523-022-000
+Annual Routine Physical,Physical Exam,None,Yes,None,None,None,H0523-022-000
+Emergency Care,Emergency Services,None,Yes,None,None,None,H0523-022-000
+Cardiac Rehab,Physical Therapy,None,Yes,None,None,None,H0523-022-000
+Hearing Services,Auditory Therapy,None,Yes,None,None,None,H0523-022-000
+Ambulance,Ground Ambulance,No,Yes,None,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements,H0523-022-000
+Ambulance,Air Ambulance,No,Yes,None,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements,H0523-022-000
+Chiropractic,Chiropractic Care,No,Yes,None,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements,H0523-022-000
+Annual Routine Physical,Annual Physical Examination,No,Yes,None,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements,H0523-022-000
+Emergency Care,Emergency Services,No,Yes,None,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements,H0523-022-000
+Cardiac Rehab,Cardiovascular Rehabilitation,No,Yes,None,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements,H0523-022-000
+Hearing Services,Hearing Aids,No,Yes,None,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements,H0523-022-000
+Ambulance,Ground Ambulance,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-022-000
+Chiropractic,Chiropractic Care,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-022-000
+Annual Routine Physical,Physical Examination,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-022-000
+Emergency Care,Emergency Services,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-022-000
+Cardiac Rehab,Cardiovascular Rehabilitation,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-022-000
+Hearing Services,Hearing Tests,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-022-000
+Ambulance,Ground Ambulance,$40,Yes,,,,H0523-022-000
+Chiropractic,Individual Session,$40,Yes,,,,H0523-022-000
+Annual Routine Physical,Outpatient Mental Health Service,$0,No,,,,H0523-022-000
+Emergency Care,Outpatient Mental Health Service,$40,Yes,,,,H0523-022-000
+Cardiac Rehab,Individual Session,$0,No,,,,H0523-022-000
+Hearing Services,Individual Session,$40,Yes,,,,H0523-022-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-022-000
+Chiropractic,Chiropractic Care,No,Yes,None specified,None specified,None specified,H0523-022-000
+Annual Routine Physical,Physical Examination,No,Yes,None specified,None specified,None specified,H0523-022-000
+Emergency Care,Emergency Services,No,Yes,None specified,None specified,None specified,H0523-022-000
+Cardiac Rehab,Cardiovascular Rehabilitation,No,Yes,None specified,None specified,None specified,H0523-022-000
+Hearing Services,Hearing Tests,No,Yes,None specified,None specified,None specified,H0523-022-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-022-000
+Chiropractic,N/A,No,Yes,None specified,None specified,None specified,H0523-022-000
+Annual Routine Physical,N/A,No,Yes,None specified,None specified,None specified,H0523-022-000
+Emergency Care,N/A,No,Yes,None specified,None specified,None specified,H0523-022-000
+Cardiac Rehab,N/A,No,Yes,None specified,None specified,None specified,H0523-022-000
+Hearing Services,N/A,No,Yes,None specified,None specified,None specified,H0523-022-000
+Ambulance,Ground Ambulance,None,Yes,Not applicable,,,H0523-022-000
+Chiropractic,Chiropractic Care,None,Yes,Not applicable,,,H0523-022-000
+Annual Routine Physical,Annual Physical Examination,None,Yes,Not applicable,,,H0523-022-000
+Emergency Care,Emergency Care Services,None,Yes,Not applicable,,,H0523-022-000
+Cardiac Rehab,Cardiac Rehabilitation Program,None,Yes,Not applicable,,,H0523-022-000
+Hearing Services,Hearing Aid Services,None,Yes,Not applicable,,,H0523-022-000
+Ambulance,Ground Ambulance,Not applicable,Yes,None specified,No prior authorization required. Cost sharing is not applicable.,Available for all locations.,H0523-022-000
+Chiropractic,Manual manipulation of the spine to correct a subluxation,Not applicable,Yes,None specified,No prior authorization required. Cost sharing is not applicable.,Available for all locations.,H0523-022-000
+Annual Routine Physical,Not applicable,Not applicable,Yes,None specified,No prior authorization required. Cost sharing is not applicable.,Available for all locations.,H0523-022-000
+Emergency Care,Not applicable,Not applicable,Yes,None specified,No prior authorization required. Cost sharing is not applicable.,Available for all locations.,H0523-022-000
+Cardiac Rehab,Not applicable,Not applicable,Yes,None specified,No prior authorization required. Cost sharing is not applicable.,Available for all locations.,H0523-022-000
+Hearing Services,Not applicable,Not applicable,Yes,None specified,No prior authorization required. Cost sharing is not applicable.,Available for all locations.,H0523-022-000
+Ambulance,Ground Ambulance,No,Yes,None,None,None,H0523-022-000
+Chiropractic,None,No,Yes,None,None,None,H0523-022-000
+Annual Routine Physical,None,No,Yes,None,None,None,H0523-022-000
+Emergency Care,None,No,Yes,None,None,None,H0523-022-000
+Cardiac Rehab,None,No,Yes,None,None,None,H0523-022-000
+Hearing Services,None,No,Yes,None,None,None,H0523-022-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-065-000
+Chiropractic,Chiropractic Service,No,Yes,None specified,None specified,None specified,H0523-065-000
+Annual Routine Physical,Annual Routine Physical,No,Yes,None specified,None specified,None specified,H0523-065-000
+Emergency Care,Emergency Care,No,Yes,None specified,None specified,None specified,H0523-065-000
+Cardiac Rehab,Cardiac Rehabilitation,No,Yes,None specified,None specified,None specified,H0523-065-000
+Hearing Services,Hearing Service,No,Yes,None specified,None specified,None specified,H0523-065-000
+Ambulance,Ground Ambulance,$250 copay for each Medicare-covered one-way trip via ground ambulance.,Yes,"If the covered ambulance services aren't for an emergency, Ground or air ambulance cost sharing is situation, it should be documented that the member’s condition not waived if you are admitted to the hospital.",This benefit is continued on the next page.,,H0523-065-000
+Ambulance,Air Ambulance,$250 copay for each Medicare-covered one-way trip via air ambulance.,Yes,"If the covered ambulance services aren't for an emergency, Ground or air ambulance cost sharing is situation, it should be documented that the member’s condition not waived if you are admitted to the hospital.",This benefit is continued on the next page.,,H0523-065-000
+Ambulance,Ground Ambulance,0 copay,Yes,None,,,H0523-065-000
+Chiropractic,Manual manipulation of the spine to correct subluxation,0 copay,Yes,None,,,H0523-065-000
+Annual Routine Physical,Annual routine physical,$0 copay for an annual routine physical,Yes,Once each calendar year,,,H0523-065-000
+Emergency Care,None,None,No,None,,,H0523-065-000
+Cardiac Rehab,Comprehensive programs of cardiac rehabilitation services that cardiac rehabilitation service.,$0 copay for each Medicare‑covered intensive cardiac rehabilitation service.,Yes,None,,,H0523-065-000
+Hearing Services,None,None,No,None,,,H0523-065-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,Aetna Dental PPO Network,H0523-065-000
+Chiropractic,N/A,No,Yes,None specified,None specified,Aetna Dental PPO Network,H0523-065-000
+Annual Routine Physical,N/A,No,Yes,None specified,None specified,Aetna Dental PPO Network,H0523-065-000
+Emergency Care,N/A,No,Yes,None specified,None specified,Aetna Dental PPO Network,H0523-065-000
+Cardiac Rehab,N/A,No,Yes,None specified,None specified,Aetna Dental PPO Network,H0523-065-000
+Hearing Services,N/A,No,Yes,None specified,None specified,Aetna Dental PPO Network,H0523-065-000
+Ambulance,Ground Ambulance,0%,Yes,waived if admitted to the hospital within 24 hours,,,H0523-065-000
+Chiropractic,N/A,0%,Yes,,,,H0523-065-000
+Annual Routine Physical,Physical Exam,0%,Yes,,,,H0523-065-000
+Emergency Care,Emergency Services,$150 copay for emergency care,Yes,waived if you are admitted to the hospital within 24 hours,,,H0523-065-000
+Cardiac Rehab,Physical Therapy,0%,Yes,,,,H0523-065-000
+Hearing Services,Audiology,0%,Yes,,,,H0523-065-000
+Ambulance,Ground Ambulance,$0 copay for each Medicare-covered,Yes,None specified,,,H0523-065-000
+Chiropractic,N/A,$0 copay for each Medicare-covered,Yes,None specified,,,H0523-065-000
+Annual Routine Physical,N/A,$0 copay for each Medicare-covered,Yes,None specified,,,H0523-065-000
+Emergency Care,N/A,$0 copay for each Medicare-covered,Yes,None specified,,,H0523-065-000
+Cardiac Rehab,N/A,$0 copay for each Medicare-covered,Yes,None specified,,,H0523-065-000
+Hearing Services,N/A,$0 copay for each Medicare-covered,Yes,None specified,,,H0523-065-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-065-000
+Chiropractic,Chiropractic Care,No,Yes,None specified,None specified,None specified,H0523-065-000
+Annual Routine Physical,Annual Physical,No,Yes,None specified,None specified,None specified,H0523-065-000
+Emergency Care,Emergency Care,No,Yes,None specified,None specified,None specified,H0523-065-000
+Cardiac Rehab,Cardiac Rehabilitation,No,Yes,None specified,None specified,None specified,H0523-065-000
+Hearing Services,Hearing Services,No,Yes,None specified,None specified,None specified,H0523-065-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-065-000
+Chiropractic,Chiropractic Care,No,Yes,None specified,None specified,None specified,H0523-065-000
+Annual Routine Physical,Physical Examination,No,Yes,None specified,None specified,None specified,H0523-065-000
+Emergency Care,Emergency Services,No,Yes,None specified,None specified,None specified,H0523-065-000
+Cardiac Rehab,Cardiovascular Rehabilitation,No,Yes,None specified,None specified,None specified,H0523-065-000
+Hearing Services,Auditory Health Care,No,Yes,None specified,None specified,None specified,H0523-065-000
+Ambulance,Ground Ambulance,0%,Yes,None specified,None specified,None specified,H0523-065-000
+Chiropractic,Individual Chiropractor,0%,Yes,None specified,None specified,None specified,H0523-065-000
+Annual Routine Physical,Annual Physical,0%,Yes,None specified,None specified,None specified,H0523-065-000
+Emergency Care,Emergency Care,0%,Yes,None specified,None specified,None specified,H0523-065-000
+Cardiac Rehab,Cardiac Rehabilitation,0%,Yes,None specified,None specified,None specified,H0523-065-000
+Hearing Services,Hearing Services,0%,Yes,None specified,None specified,None specified,H0523-065-000
+Ambulance,Ground Ambulance,0,Yes,,,,H0523-065-000
+Chiropractic,N/A,0,Yes,,,,H0523-065-000
+Annual Routine Physical,Physical Exam,0,Yes,,,,H0523-065-000
+Emergency Care,N/A,0,Yes,,,,H0523-065-000
+Cardiac Rehab,Physical Therapy,0,Yes,,,,H0523-065-000
+Hearing Services,N/A,0,Yes,,,,H0523-065-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-065-000
+Chiropractic,Chiropractic Care,No,Yes,None specified,None specified,None specified,H0523-065-000
+Annual Routine Physical,Physical Examination,No,Yes,None specified,None specified,None specified,H0523-065-000
+Emergency Care,Emergency Services,No,Yes,None specified,None specified,None specified,H0523-065-000
+Cardiac Rehab,Cardiovascular Rehabilitation,No,Yes,None specified,None specified,None specified,H0523-065-000
+Hearing Services,Hearing Tests,No,Yes,None specified,None specified,None specified,H0523-065-000
+Ambulance,Ground Ambulance,Not applicable,No,None specified,None specified,None specified,H0523-065-000
+Chiropractic,N/A,Not applicable,No,None specified,None specified,None specified,H0523-065-000
+Annual Routine Physical,N/A,Not applicable,No,None specified,None specified,None specified,H0523-065-000
+Emergency Care,N/A,Not applicable,No,None specified,None specified,None specified,H0523-065-000
+Cardiac Rehab,N/A,Not applicable,No,None specified,None specified,None specified,H0523-065-000
+Hearing Services,N/A,Not applicable,No,None specified,None specified,None specified,H0523-065-000
+Ambulance,Ground Ambulance,No,Yes,None,Business rules/details,Provider network requirements,H0523-065-000
+Chiropractic,N/A,No,Yes,None,Business rules/details,Provider network requirements,H0523-065-000
+Annual Routine Physical,N/A,No,Yes,None,Business rules/details,Provider network requirements,H0523-065-000
+Emergency Care,N/A,No,Yes,None,Business rules/details,Provider network requirements,H0523-065-000
+Cardiac Rehab,N/A,No,Yes,None,Business rules/details,Provider network requirements,H0523-065-000
+Hearing Services,N/A,No,Yes,None,Business rules/details,Provider network requirements,H0523-065-000
+Ambulance,Ground Ambulance,No,Yes,Not applicable,,,H0523-065-000
+Chiropractic,N/A,No,Yes,Not applicable,,,H0523-065-000
+Annual Routine Physical,N/A,No,Yes,Not applicable,,,H0523-065-000
+Emergency Care,N/A,No,Yes,Not applicable,,,H0523-065-000
+Cardiac Rehab,N/A,No,Yes,Not applicable,,,H0523-065-000
+Hearing Services,N/A,No,Yes,Not applicable,,,H0523-065-000
+Ambulance,Ground Ambulance,No,Yes,Once per year,,,H0523-065-000
+Chiropractic,N/A,No,Yes,Once per year,,,H0523-065-000
+Annual Routine Physical,Physical Exam,No,Yes,Once per year,,,H0523-065-000
+Emergency Care,N/A,No,Yes,Once per year,,,H0523-065-000
+Cardiac Rehab,Physical Therapy,No,Yes,Once per year,,,H0523-065-000
+Hearing Services,N/A,No,Yes,Once per year,,,H0523-065-000
+Ambulance,Ground Ambulance,No,Yes,None,None,None,H0523-065-000
+Chiropractic,Routine Chiropractic Care,No,Yes,None,None,None,H0523-065-000
+Annual Routine Physical,Annual Physical,No,Yes,None,None,None,H0523-065-000
+Emergency Care,Emergency Care,No,Yes,None,None,None,H0523-065-000
+Cardiac Rehab,Cardiac Rehabilitation,No,Yes,None,None,None,H0523-065-000
+Hearing Services,Hearing Services,No,Yes,None,None,None,H0523-065-000
+Ambulance,Ground Ambulance,No,Yes,None,None,None,H0523-065-000
+Chiropractic,None,No,Yes,None,None,None,H0523-065-000
+Annual Routine Physical,None,No,Yes,None,None,None,H0523-065-000
+Emergency Care,None,No,Yes,None,None,None,H0523-065-000
+Cardiac Rehab,None,No,Yes,None,None,None,H0523-065-000
+Hearing Services,"Hearing aids, hearing aid fitting and evaluations, routine hearing exams",No,Yes,None,None,None,H0523-065-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-070-000
+Chiropractic,Chiropractic Service,No,Yes,None specified,None specified,None specified,H0523-070-000
+Annual Routine Physical,Annual Routine Physical,No,Yes,None specified,None specified,None specified,H0523-070-000
+Emergency Care,Emergency Care,No,Yes,None specified,None specified,None specified,H0523-070-000
+Cardiac Rehab,Cardiac Rehabilitation,No,Yes,None specified,None specified,None specified,H0523-070-000
+Hearing Services,Hearing Service,No,Yes,None specified,None specified,None specified,H0523-070-000
+Ambulance,Ground Ambulance,$295,Yes,None specified,"Prior authorization is required for all non-emergency transportation, including fixed wing, rotary wing, and ground ambulance services.",None specified,H0523-070-000
+Ambulance,Air Ambulance,$295,Yes,None specified,"Prior authorization is required for all non-emergency transportation, including fixed wing, rotary wing, and ground ambulance services.",None specified,H0523-070-000
+Ambulance,Ground Ambulance,,Yes,,,,H0523-070-000
+Chiropractic,Manual manipulation of the spine to correct subluxation,,Yes,,,,H0523-070-000
+Annual Routine Physical,Non-Medicare covered,,Yes,once per calendar year,,,H0523-070-000
+Emergency Care,Non-Medicare covered,,Yes,,,,H0523-070-000
+Cardiac Rehab,Comprehensive programs of cardiac rehabilitation services that cardiac rehabilitation service.,,Yes,,,,H0523-070-000
+Hearing Services,Non-Medicare covered,,Yes,,,,H0523-070-000
+Ambulance,Ground Ambulance,No,Yes,Once every 3 years,,,H0523-070-000
+Chiropractic,N/A,No,Yes,N/A,,,H0523-070-000
+Annual Routine Physical,Physical Exam,0%,Yes,Once every year,,,H0523-070-000
+Emergency Care,N/A,No,Yes,N/A,,,H0523-070-000
+Cardiac Rehab,Cardiovascular Rehabilitation,0%,Yes,N/A,,,H0523-070-000
+Hearing Services,Hearing Aid,No,Yes,N/A,,,H0523-070-000
+Ambulance,Ground Ambulance,$150,Yes,Sharing is waived if you are admitted to the hospital within 24 hours.,,,H0523-070-000
+Ambulance,Air Ambulance,$150,Yes,Sharing is waived if you are admitted to the hospital within 24 hours.,,,H0523-070-000
+Chiropractic,N/A,$0,Yes,,,,H0523-070-000
+Annual Routine Physical,Physical Exam,$0,Yes,,,,H0523-070-000
+Emergency Care,Medical Emergency,$150,Yes,Sharing is waived if you are admitted to the hospital within 24 hours.,,,H0523-070-000
+Cardiac Rehab,N/A,$0,Yes,,,,H0523-070-000
+Hearing Services,Audiology,$0,Yes,,,,H0523-070-000
+Ambulance,Ground Ambulance,$0 copay,Yes,None specified,None specified,None specified,H0523-070-000
+Chiropractic,None specified,$0 copay,Yes,None specified,None specified,None specified,H0523-070-000
+Annual Routine Physical,None specified,$0 copay,Yes,None specified,None specified,None specified,H0523-070-000
+Emergency Care,None specified,$0 copay,Yes,None specified,None specified,None specified,H0523-070-000
+Cardiac Rehab,None specified,$0 copay,Yes,None specified,None specified,None specified,H0523-070-000
+Hearing Services,Diagnostic Hearing and Balance Evaluations,$0 copay for each Medicare-covered Diagnostic hearing and balance evaluations performed by your hearing exam.,Yes,None specified,None specified,NationsHearing® network provider,H0523-070-000
+Home health agency care,"Physical therapy, occupational therapy, and speech therapy","$0 copay for each Medicare-covered Physical therapy, occupational therapy, and speech therapy services.",Yes,None specified,None specified,NationsHearing® network provider,H0523-070-000
+Home infusion therapy,"Intravenous or to primary care provider services, subcutaneous administration of drugs or biologicals to a person specialist physician services (including at home. The components needed to perform home infusion certified home infusion providers), or include the drug (for example, antivirals, immune globulin), home health services depending on equipment (for example, a pump), and supplies (for example, where you received administration or tubing and catheters). monitoring services. (See Physician/Practitioner services, Prior to receiving home infusion services, they must be ordered including doctor’s office visits or by a doctor and included in your care plan. Home health agency care for any applicable cost sharing.)",$0 copay for each Medicare-covered Home infusion therapy services.,Yes,None specified,None specified,NationsHearing® network provider,H0523-070-000
+Hospice care,None specified,$0 copay for each Medicare-covered Hospice services.,Yes,None specified,None specified,NationsHearing® network provider,H0523-070-000
+Ambulance,Ground Ambulance,No,Yes,None,None,None,H0523-070-000
+Chiropractic,None,No,Yes,None,None,None,H0523-070-000
+Annual Routine Physical,Physical Exam,No,Yes,None,None,None,H0523-070-000
+Emergency Care,Emergency Services,No,Yes,None,None,None,H0523-070-000
+Cardiac Rehab,Physical Therapy,No,Yes,None,None,None,H0523-070-000
+Hearing Services,Auditory Therapy,No,Yes,None,None,None,H0523-070-000
+Ambulance,Ground Ambulance,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Ambulance,Air Ambulance,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Chiropractic,Chiropractic Care,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Annual Routine Physical,Annual Physical Examination,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Emergency Care,Emergency Services,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Cardiac Rehab,Cardiovascular Rehabilitation,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Hearing Services,Hearing Aids,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Ambulance,Ground Ambulance,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Chiropractic,Chiropractic Care,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Annual Routine Physical,Physical Examination,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Emergency Care,Emergency Services,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Cardiac Rehab,Cardiovascular Rehabilitation,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Hearing Services,Hearing Tests,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-070-000
+Ambulance,Ground Ambulance,$40,Yes,,,,H0523-070-000
+Chiropractic,N/A,$0,No,,,,H0523-070-000
+Annual Routine Physical,Physical Examination,$0,Yes,,,,H0523-070-000
+Emergency Care,Emergency Services,$0,No,,,,H0523-070-000
+Cardiac Rehab,Physical Therapy,$0,Yes,,,,H0523-070-000
+Hearing Services,Auditory Evaluation,$0,No,,,,H0523-070-000
+Ambulance,Ground Ambulance,$0,Yes,None specified,None specified,None specified,H0523-070-000
+Chiropractic,N/A,$0,Yes,None specified,None specified,None specified,H0523-070-000
+Annual Routine Physical,Physical Exam,$0,Yes,None specified,None specified,None specified,H0523-070-000
+Emergency Care,N/A,$0,Yes,None specified,None specified,None specified,H0523-070-000
+Cardiac Rehab,N/A,$0,Yes,None specified,None specified,None specified,H0523-070-000
+Hearing Services,N/A,$0,Yes,None specified,None specified,None specified,H0523-070-000
+Ambulance,Ground Ambulance,Not applicable,Yes,None specified,No prior authorization required. Cost sharing is charged at the time of service.,Provider network requirements not specified,H0523-070-000
+Chiropractic,Chiropractic services,Not applicable,Yes,None specified,No prior authorization required. Cost sharing is charged at the time of service.,Provider network requirements not specified,H0523-070-000
+Annual Routine Physical,Annual physical examination,Not applicable,Yes,None specified,No prior authorization required. Cost sharing is charged at the time of service.,Provider network requirements not specified,H0523-070-000
+Emergency Care,Emergency care services,Not applicable,Yes,None specified,No prior authorization required. Cost sharing is charged at the time of service.,Provider network requirements not specified,H0523-070-000
+Cardiac Rehab,Cardiac rehabilitation services,Not applicable,Yes,None specified,No prior authorization required. Cost sharing is charged at the time of service.,Provider network requirements not specified,H0523-070-000
+Hearing Services,Hearing services,Not applicable,Yes,None specified,No prior authorization required. Cost sharing is charged at the time of service.,Provider network requirements not specified,H0523-070-000
+Ambulance,Ground Ambulance,$0,Yes,None,None,None,H0523-070-000
+Chiropractic,N/A,$0,Yes,None,None,None,H0523-070-000
+Annual Routine Physical,Physical Exam,$0,Yes,None,None,None,H0523-070-000
+Emergency Care,Urgent Care,$0,Yes,None,None,None,H0523-070-000
+Cardiac Rehab,N/A,$0,Yes,None,None,None,H0523-070-000
+Hearing Services,N/A,$0,Yes,None,None,None,H0523-070-000
+Ambulance,Ground Ambulance,No,Yes,None,None,None,H0523-070-000
+Chiropractic,None,No,Yes,None,None,None,H0523-070-000
+Annual Routine Physical,None,No,Yes,None,None,None,H0523-070-000
+Emergency Care,None,No,Yes,None,None,None,H0523-070-000
+Cardiac Rehab,None,No,Yes,None,None,None,H0523-070-000
+Hearing Services,None,No,Yes,None,None,None,H0523-070-000
+Ambulance,Ground Ambulance,50%,Yes,Once per year,Business rules/details,,H0523-070-000
+Chiropractic,N/A,50%,Yes,Once per year,Business rules/details,,H0523-070-000
+Annual Routine Physical,N/A,50%,Yes,Once per year,Business rules/details,,H0523-070-000
+Emergency Care,N/A,50%,Yes,Once per year,Business rules/details,,H0523-070-000
+Cardiac Rehab,N/A,50%,Yes,Once per year,Business rules/details,,H0523-070-000
+Hearing Services,N/A,50%,Yes,Once per year,Business rules/details,,H0523-070-000
+Ambulance,Ground Ambulance,Not applicable,Yes,None specified,No prior authorization required for ground ambulance services.,Available in all locations.,H0523-070-000
+Chiropractic,Chiropractic Care,Not applicable,Yes,None specified,No prior authorization required for chiropractic services.,Available in all locations.,H0523-070-000
+Annual Routine Physical,Physical Examination,Not applicable,Yes,None specified,No prior authorization required for annual routine physicals.,Available in all locations.,H0523-070-000
+Emergency Care,Emergency Services,Not applicable,Yes,None specified,No prior authorization required for emergency care.,Available in all locations.,H0523-070-000
+Cardiac Rehab,Cardiovascular Rehabilitation,Not applicable,Yes,None specified,No prior authorization required for cardiac rehabilitation.,Available in all locations.,H0523-070-000
+Hearing Services,Hearing Tests,Not applicable,Yes,None specified,No prior authorization required for hearing tests.,Available in all locations.,H0523-070-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-070-000
+Chiropractic,Manual Manipulation of the Spine,No,Yes,None specified,None specified,None specified,H0523-070-000
+Annual Routine Physical,None specified,No,Yes,None specified,None specified,None specified,H0523-070-000
+Emergency Care,None specified,No,Yes,None specified,None specified,None specified,H0523-070-000
+Cardiac Rehab,None specified,No,Yes,None specified,None specified,None specified,H0523-070-000
+Hearing Services,None specified,No,Yes,None specified,None specified,None specified,H0523-070-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-073-000
+Chiropractic,Chiropractic Service,No,Yes,None specified,None specified,None specified,H0523-073-000
+Annual Routine Physical,Annual Routine Physical,No,Yes,None specified,None specified,None specified,H0523-073-000
+Emergency Care,Emergency Care,No,Yes,None specified,None specified,None specified,H0523-073-000
+Cardiac Rehab,Cardiac Rehabilitation,No,Yes,None specified,None specified,None specified,H0523-073-000
+Hearing Services,Hearing Service,No,Yes,None specified,None specified,None specified,H0523-073-000
+Ambulance,Ground Ambulance,275 copay for each Medicare-covered,Yes,None specified,"Prior authorization is required for all non-emergency transportation, including fixed wing, rotary wing, and ground ambulance services.",None specified,H0523-073-000
+Ambulance,Air Ambulance,275 copay for each Medicare-covered,Yes,None specified,"Prior authorization is required for all non-emergency transportation, including fixed wing, rotary wing, and ground ambulance services.",None specified,H0523-073-000
+Ambulance,Ground Ambulance,,Yes,,,,H0523-073-000
+Chiropractic,Manual manipulation of the spine to correct subluxation,,Yes,,,,H0523-073-000
+Annual Routine Physical,Annual routine physical,,Yes,once per calendar year,,,H0523-073-000
+Emergency Care,Emergency care,,Yes,,,,H0523-073-000
+Cardiac Rehab,Comprehensive programs of cardiac rehabilitation services that cardiac rehabilitation service.,,Yes,,,,H0523-073-000
+Hearing Services,Hearing services,,Yes,,,,H0523-073-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-073-000
+Chiropractic,N/A,No,Yes,None specified,None specified,None specified,H0523-073-000
+Annual Routine Physical,N/A,No,Yes,None specified,None specified,None specified,H0523-073-000
+Emergency Care,N/A,No,Yes,None specified,None specified,None specified,H0523-073-000
+Cardiac Rehab,N/A,No,Yes,None specified,None specified,None specified,H0523-073-000
+Hearing Services,N/A,No,Yes,None specified,None specified,None specified,H0523-073-000
+Ambulance,Ground Ambulance,No,Yes,waived if admitted to the hospital within 24 hours,,,H0523-073-000
+Chiropractic,N/A,No,Yes,N/A,,,H0523-073-000
+Annual Routine Physical,Physical Exam,0%,No,N/A,,,H0523-073-000
+Emergency Care,Medical Emergency Services,$150 copay for emergency care,Yes,waived if you are admitted to the hospital within 24 hours,,,H0523-073-000
+Cardiac Rehab,N/A,No,Yes,N/A,,,H0523-073-000
+Hearing Services,Audiology Services,0%,No,N/A,,,H0523-073-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-073-000
+Chiropractic,None specified,No,Yes,None specified,None specified,None specified,H0523-073-000
+Annual Routine Physical,Routine Physical,No,Yes,None specified,None specified,None specified,H0523-073-000
+Emergency Care,Emergency Care,No,Yes,None specified,None specified,None specified,H0523-073-000
+Cardiac Rehab,Cardiac Rehab,No,Yes,None specified,None specified,None specified,H0523-073-000
+Hearing Services,Routine Hearing Exam,"$0 copay per ear, per year (two hearing fitting/evaluation every year)",Yes,None specified,None specified,NationsHearing® network provider,H0523-073-000
+Home health agency care,"Physical Therapy, Occupational Therapy, and Speech Therapy",0% coinsurance for continuous skilled nursing and home health aide services (to be covered under the home health care benefit),Yes,None specified,None specified,NationsHearing® network provider,H0523-073-000
+Home infusion therapy,"Home infusion therapy involves the intravenous or to primary care provider services, subcutaneous administration of drugs or biologicals to a person specialist physician services (including at home. The components needed to perform home infusion certified home infusion providers), or include the drug (for example, antivirals, immune globulin), home health services depending on equipment (for example, a pump), and supplies (for example, where you received administration or tubing and catheters). monitoring services. (See Physician/Practitioner services)","Home infusion drugs, pumps, and supplies: None specified",Yes,None specified,None specified,NationsHearing® network provider,H0523-073-000
+Hospice care,Hospice Services,"Original Medicare (rather than our plan) will pay your hospice provider for your hospice services and any Part A and Part B services related to your terminal prognosis. While you're in the hospice program, your hospice provider will bill Original Medicare for the services Original Medicare pays for. You'll be billed Original Medicare cost sharing.",Yes,None specified,None specified,NationsHearing® network provider,H0523-073-000
+Ambulance,Ground Ambulance,No,Yes,None,None,None,H0523-073-000
+Chiropractic,N/A,No,Yes,None,None,None,H0523-073-000
+Annual Routine Physical,Physical Exam,0%,No,None,None,None,H0523-073-000
+Emergency Care,Emergency Services,No,Yes,None,None,None,H0523-073-000
+Cardiac Rehab,Cardiovascular Rehabilitation,No,Yes,None,None,None,H0523-073-000
+Hearing Services,Hearing Tests,No,Yes,None,None,None,H0523-073-000
+Ambulance,Ground Ambulance,$0 copay for each Medicare-covered CT and dislocations scan.,Prior authorization may be required and is the responsibility of your provider.,None specified.,Business rules/details not provided.,,H0523-073-000
+Chiropractic,N/A,$0 copay for each Medicare-covered CT and dislocations scan.,Prior authorization may be required and is the responsibility of your provider.,None specified.,Business rules/details not provided.,,H0523-073-000
+Annual Routine Physical,N/A,$0 copay for each Medicare-covered CT and dislocations scan.,Prior authorization may be required and is the responsibility of your provider.,None specified.,Business rules/details not provided.,,H0523-073-000
+Emergency Care,N/A,$0 copay for each Medicare-covered CT and dislocations scan.,Prior authorization may be required and is the responsibility of your provider.,None specified.,Business rules/details not provided.,,H0523-073-000
+Cardiac Rehab,N/A,$0 copay for each Medicare-covered CT and dislocations scan.,Prior authorization may be required and is the responsibility of your provider.,None specified.,Business rules/details not provided.,,H0523-073-000
+Hearing Services,N/A,$0 copay for each Medicare-covered CT and dislocations scan.,Prior authorization may be required and is the responsibility of your provider.,None specified.,Business rules/details not provided.,,H0523-073-000
+Ambulance,Ground Ambulance,0%,Yes,None specified,None specified,None specified,H0523-073-000
+Chiropractic,None specified,0%,Yes,None specified,None specified,None specified,H0523-073-000
+Annual Routine Physical,Physical Examination,0%,Yes,None specified,None specified,None specified,H0523-073-000
+Emergency Care,Emergency Services,0%,Yes,None specified,None specified,None specified,H0523-073-000
+Cardiac Rehab,Physical Therapy,0%,Yes,None specified,None specified,None specified,H0523-073-000
+Hearing Services,Auditory Therapy,0%,Yes,None specified,None specified,None specified,H0523-073-000
+Ambulance,Ground Ambulance,No,Yes,,,,H0523-073-000
+Chiropractic,Individual Session,No,Yes,,,,H0523-073-000
+Annual Routine Physical,Outpatient Service,0 copay for each Medicare-covered,Yes,,,,H0523-073-000
+Emergency Care,Outpatient Service,No,Yes,,,,H0523-073-000
+Cardiac Rehab,Individual Session,No,Yes,,,,H0523-073-000
+Hearing Services,Individual Session,No,Yes,,,,H0523-073-000
+Ambulance,Ground Ambulance,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-073-000
+Chiropractic,Chiropractic Care,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-073-000
+Annual Routine Physical,Annual Physical Examination,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-073-000
+Emergency Care,Emergency Services,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-073-000
+Cardiac Rehab,Cardiovascular Rehabilitation Services,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-073-000
+Hearing Services,Hearing Aids,No,Yes,None specified,Prior authorization may be required and is the responsibility of your provider.,Provider network requirements not specified,H0523-073-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-073-000
+Chiropractic,None specified,No,Yes,None specified,None specified,None specified,H0523-073-000
+Annual Routine Physical,"Physical Therapy, Occupational Therapy and Speech Therapy",No,Yes,None specified,None specified,None specified,H0523-073-000
+Emergency Care,Urgently needed services,150 copay for ea,Yes,None specified,None specified,None specified,H0523-073-000
+Cardiac Rehab,Supervised Exercise Therapy (SET),No,Yes,None specified,None specified,None specified,H0523-073-000
+Hearing Services,None specified,No,Yes,None specified,None specified,None specified,H0523-073-000
+Ambulance,Ground Ambulance,$0,Yes,None,Business rules/details,Provider network requirements,H0523-073-000
+Chiropractic,N/A,$0,Yes,None,Business rules/details,Provider network requirements,H0523-073-000
+Annual Routine Physical,N/A,$0,Yes,None,Business rules/details,Provider network requirements,H0523-073-000
+Emergency Care,N/A,$0,Yes,None,Business rules/details,Provider network requirements,H0523-073-000
+Cardiac Rehab,N/A,$0,Yes,None,Business rules/details,Provider network requirements,H0523-073-000
+Hearing Services,N/A,$0,Yes,None,Business rules/details,Provider network requirements,H0523-073-000
+Ambulance,Ground Ambulance,No,Yes,None,None,None,H0523-073-000
+Chiropractic,None,No,Yes,None,None,None,H0523-073-000
+Annual Routine Physical,None,No,Yes,None,None,None,H0523-073-000
+Emergency Care,None,No,Yes,None,None,None,H0523-073-000
+Cardiac Rehab,None,No,Yes,None,None,None,H0523-073-000
+Hearing Services,None,No,Yes,None,None,None,H0523-073-000
+Ambulance,Ground Ambulance,N/A,Yes,Once per year,,,H0523-073-000
+Chiropractic,No specific sub-service,N/A,Yes,Once per year,,,H0523-073-000
+Annual Routine Physical,No specific sub-service,N/A,Yes,Once per year,,,H0523-073-000
+Emergency Care,No specific sub-service,N/A,Yes,Once per year,,,H0523-073-000
+Cardiac Rehab,No specific sub-service,N/A,Yes,Once per year,,,H0523-073-000
+Hearing Services,No specific sub-service,N/A,Yes,Once per year,,,H0523-073-000
+Ambulance,Ground Ambulance,Not applicable,Yes,None specified,No prior authorization required for ground ambulance services.,Available in all locations.,H0523-073-000
+Chiropractic,Chiropractic Care,Not applicable,Yes,None specified,No prior authorization required for chiropractic care.,Available in all locations.,H0523-073-000
+Annual Routine Physical,Physical Examination,Not applicable,Yes,None specified,No prior authorization required for annual routine physicals.,Available in all locations.,H0523-073-000
+Emergency Care,Emergency Services,Not applicable,Yes,None specified,No prior authorization required for emergency care.,Available in all locations.,H0523-073-000
+Cardiac Rehab,Cardiovascular Rehabilitation,Not applicable,Yes,None specified,No prior authorization required for cardiac rehabilitation.,Available in all locations.,H0523-073-000
+Hearing Services,Hearing Tests,Not applicable,Yes,None specified,No prior authorization required for hearing tests.,Available in all locations.,H0523-073-000
+Ambulance,Ground Ambulance,Not applicable,Yes,None specified,Business rules/details,Provider network requirements,H0523-073-000
+Chiropractic,Manual manipulation of the spine to correct a subluxation is covered.,Not applicable,Yes,None specified,Business rules/details,Provider network requirements,H0523-073-000
+Annual Routine Physical,None specified,Not applicable,Yes,None specified,Business rules/details,Provider network requirements,H0523-073-000
+Emergency Care,None specified,Not applicable,Yes,None specified,Business rules/details,Provider network requirements,H0523-073-000
+Cardiac Rehab,None specified,Not applicable,Yes,None specified,Business rules/details,Provider network requirements,H0523-073-000
+Hearing Services,"Routine hearing exams, hearing aids, or exams to fit",Not applicable,Yes,None specified,Business rules/details,Provider network requirements,H0523-073-000
+Ambulance,Ground Ambulance,No,Yes,None,None,Provider network requirements,H0523-074-000
+Chiropractic,Chiropractic Service,No,Yes,None,None,Provider network requirements,H0523-074-000
+Annual Routine Physical,Physical Examination,No,Yes,None,None,Provider network requirements,H0523-074-000
+Emergency Care,Emergency Service,No,Yes,None,None,Provider network requirements,H0523-074-000
+Cardiac Rehab,Cardiovascular Rehabilitation,No,Yes,None,None,Provider network requirements,H0523-074-000
+Hearing Services,Hearing Service,No,Yes,None,None,Provider network requirements,H0523-074-000
+Ambulance,Ground Ambulance,No,Yes,None,None,None,H0523-074-000
+Chiropractic,Chiropractic Care,No,Yes,None,None,None,H0523-074-000
+Annual Routine Physical,Annual Physical Examination,No,Yes,None,None,None,H0523-074-000
+Emergency Care,Emergency Services,No,Yes,None,None,None,H0523-074-000
+Cardiac Rehab,Cardiovascular Rehabilitation Services,No,Yes,None,None,None,H0523-074-000
+Hearing Services,Hearing Tests and Auditory Assessments,No,Yes,None,None,None,H0523-074-000
+Ambulance,Ground Ambulance,$250 per trip,Yes,None specified,"Prior authorization required for all non-emergency transportation, including fixed wing, rotary wing, and ground ambulance services.",Aetna is a provider network.,H0523-074-000
+Ambulance,Air Ambulance,$250 per trip,Yes,None specified,"Prior authorization required for all non-emergency transportation, including fixed wing, rotary wing, and ground ambulance services.",Aetna is a provider network.,H0523-074-000
+Annual Routine Physical,None specified,$0,Yes,Once per calendar year,Coverage for this non-Medicare covered benefit is in addition to the Medicare-covered annual wellness visit and the Welcome to Medicare preventive visit. You may schedule your annual routine physical once each calendar year.,Aetna is a provider network.,H0523-074-000
+Cardiac Rehab,Comprehensive programs of cardiac rehabilitation services,$0,Yes,None specified,Our plan also covers intensive cardiac rehabilitation programs that are typically more rigorous or more intense than cardiac rehabilitation programs.,Aetna is a provider network.,H0523-074-000
+Cardiac Rehab,Intensive cardiac rehabilitation service,$0,Yes,None specified,Our plan also covers intensive cardiac rehabilitation programs that are typically more rigorous or more intense than cardiac rehabilitation programs.,Aetna is a provider network.,H0523-074-000
+Cardiovascular Disease Risk Reduction Visit (therapy for),None specified,$0,Yes,One visit per year with your primary care doctor to preventive benefit.,"help lower your risk for cardiovascular disease. During this visit, your doctor may discuss aspirin use (if appropriate), check your blood pressure, and give you tips to make sure you’re eating healthy.",Aetna is a provider network.,H0523-074-000
+Cardiovascular Disease Screening Tests,Blood tests for the detection of cardiovascular disease (or testing that is covered once every 5),$0,Yes,Once every 5 years (60 months).,"There is no coinsurance, copayment, or deductible for this benefit.",Aetna is a provider network.,H0523-074-000
+Cervical and Vaginal Cancer Screening,None specified,$0,Yes,"Once every 24 months for all women, one Pap test every 12 months if you're at high risk of cervical or vaginal cancer or you're of childbearing age and have had an abnormal Pap test within the past 3 years.","Coverage for this non-Medicare covered benefit is in addition to the Medicare-covered preventive Pap and pelvic exams. You may schedule your cervical and vaginal cancer screening once every 24 months for all women, one Pap test every 12 months if you're at high risk of cervical or vaginal cancer or you're of childbearing age and have had an abnormal Pap test within the past 3 years.",Aetna is a provider network.,H0523-074-000
+Chiropractic Services,Manual manipulation of the spine to correct subluxation,$0,Yes,None specified,"In addition to manual manipulation of the spine, Aetna also covers chiropractic visit.",Aetna is a provider network.,H0523-074-000
+Ambulance,Ground Ambulance,,Yes,None specified,,,H0523-074-000
+Chiropractic,Non-Medicare Covered,,Yes,None specified,,American Specialty Health® (ASH),H0523-074-000
+Annual Routine Physical,Non-Medicare Covered,,Yes,None specified,,,H0523-074-000
+Emergency Care,Non-Medicare Covered,,Yes,None specified,,,H0523-074-000
+Cardiac Rehab,Non-Medicare Covered,,Yes,None specified,,,H0523-074-000
+Hearing Services,Non-Medicare Covered,,Yes,None specified,,,H0523-074-000
+Ambulance,Ground Ambulance,$150 copay,Yes,,,,H0523-074-000
+Ambulance,Ground Ambulance,$150,Yes if admitted to the hospital within 24 hours.,,,,H0523-074-000
+Ambulance,Air Ambulance,$150,Yes if admitted to the hospital within 24 hours.,,,,H0523-074-000
+Chiropractic,N/A,$0,Yes,,,,H0523-074-000
+Annual Routine Physical,N/A,$0,Yes,,,,H0523-074-000
+Emergency Care,Worldwide,$250,Waived if admitted to the hospital within 24 hours.,,,,H0523-074-000
+Cardiac Rehab,N/A,$0,Yes,,,,H0523-074-000
+Hearing Services,Worldwide,$0,Yes,,,,H0523-074-000
+Ambulance,Ground Ambulance,,Yes,,,,H0523-074-000
+Chiropractic,N/A,,Yes,,,,H0523-074-000
+Annual Routine Physical,Physical Exam,,Yes,,,,H0523-074-000
+Emergency Care,N/A,,Yes,,,,H0523-074-000
+Cardiac Rehab,Physical Therapy,,Yes,,,,H0523-074-000
+Hearing Services,N/A,,Yes,,,,H0523-074-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-074-000
+Chiropractic,None specified,No,Yes,None specified,None specified,None specified,H0523-074-000
+Annual Routine Physical,Physical Exam,No,Yes,None specified,None specified,None specified,H0523-074-000
+Emergency Care,Emergency Services,No,Yes,None specified,None specified,None specified,H0523-074-000
+Cardiac Rehab,Physical Therapy,No,Yes,None specified,None specified,None specified,H0523-074-000
+Hearing Services,Auditory Therapy,No,Yes,None specified,None specified,None specified,H0523-074-000
+Ambulance,Ground Ambulance,No,Yes,None specified,,,H0523-074-000
+Chiropractic,Chiropractic Care,No,Yes,None specified,,,H0523-074-000
+Annual Routine Physical,Annual Physical Examination,No,Yes,None specified,,,H0523-074-000
+Emergency Care,Emergency Services,No,Yes,None specified,,,H0523-074-000
+Cardiac Rehab,Cardiovascular Rehabilitation,No,Yes,None specified,,,H0523-074-000
+Hearing Services,Hearing Aids,No,Yes,None specified,,,H0523-074-000
+Ambulance,Ground Ambulance,$175,Yes,,,,H0523-074-000
+Chiropractic,N/A,$0,No,,,,H0523-074-000
+Annual Routine Physical,N/A,$0,Yes,,,,H0523-074-000
+Emergency Care,N/A,$0,Yes,,,,H0523-074-000
+Cardiac Rehab,N/A,$0,Yes,,,,H0523-074-000
+Hearing Services,N/A,$0,No,,,,H0523-074-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-074-000
+Chiropractic,Chiropractic Care,No,Yes,None specified,None specified,None specified,H0523-074-000
+Annual Routine Physical,Physical Exam,No,Yes,None specified,None specified,None specified,H0523-074-000
+Emergency Care,Emergency Services,No,Yes,None specified,None specified,None specified,H0523-074-000
+Cardiac Rehab,Cardiovascular Rehabilitation,No,Yes,None specified,None specified,None specified,H0523-074-000
+Hearing Services,Hearing Test,No,Yes,None specified,None specified,None specified,H0523-074-000
+Ambulance,Ground Ambulance,No,Yes,None,None,None,H0523-074-000
+Chiropractic,Chiropractic Service,No,Yes,None,None,None,H0523-074-000
+Annual Routine Physical,Physical Examination,No,Yes,None,None,None,H0523-074-000
+Emergency Care,Emergency Service,No,Yes,None,None,None,H0523-074-000
+Cardiac Rehab,Cardiovascular Rehabilitation Service,No,Yes,None,None,None,H0523-074-000
+Hearing Services,Hearing Service,No,Yes,None,None,None,H0523-074-000
+Ambulance,Ground Ambulance,No,Yes,None specified,None specified,None specified,H0523-074-000
+Chiropractic,N/A,No,Yes,None specified,None specified,None specified,H0523-074-000
+Annual Routine Physical,N/A,No,Yes,None specified,None specified,None specified,H0523-074-000
+Emergency Care,N/A,No,Yes,None specified,None specified,None specified,H0523-074-000
+Cardiac Rehab,N/A,No,Yes,None specified,None specified,None specified,H0523-074-000
+Hearing Services,N/A,No,Yes,None specified,None specified,None specified,H0523-074-000
+Ambulance,Ground Ambulance,$0,Yes,None,None,None,H0523-074-000
+Chiropractic,Chiropractic Care,$0,Yes,None,None,None,H0523-074-000
+Annual Routine Physical,Annual Physical Examination,$0,Yes,Once per year,None,None,H0523-074-000
+Emergency Care,Emergency Services,$0,Yes,None,None,None,H0523-074-000
+Cardiac Rehab,Cardiovascular Rehabilitation,$0,Yes,None,None,None,H0523-074-000
+Hearing Services,Hearing Tests and Treatments,$0,Yes,Once per year,None,None,H0523-074-000
+Ambulance,Ground Ambulance,No,Yes,None,This benefit is available to all members.,Available at participating retail stores and online at CVS.com/Aetna or by phone at 1-844-428-8147 (TTY: 711).,H0523-074-000
+Chiropractic,None,No,Yes,None,This benefit is available to all members.,Available at participating retail stores and online at CVS.com/Aetna or by phone at 1-844-428-8147 (TTY: 711).,H0523-074-000
+Annual Routine Physical,None,No,Yes,None,This benefit is available to all members.,Available at participating retail stores and online at CVS.com/Aetna or by phone at 1-844-428-8147 (TTY: 711).,H0523-074-000
+Emergency Care,None,No,Yes,None,This benefit is available to all members.,Available at participating retail stores and online at CVS.com/Aetna or by phone at 1-844-428-8147 (TTY: 711).,H0523-074-000
+Cardiac Rehab,None,No,Yes,None,This benefit is available to all members.,Available at participating retail stores and online at CVS.com/Aetna or by phone at 1-844-428-8147 (TTY: 711).,H0523-074-000
+Hearing Services,None,No,Yes,None,This benefit is available to all members.,Available at participating retail stores and online at CVS.com/Aetna or by phone at 1-844-428-8147 (TTY: 711).,H0523-074-000
+Ambulance,Ground Ambulance,No,Yes,None,,,H0523-074-000
+Chiropractic,None,No,Yes,None,,,H0523-074-000
+Annual Routine Physical,None,No,Yes,None,,,H0523-074-000
+Emergency Care,None,No,Yes,None,,,H0523-074-000
+Cardiac Rehab,None,No,Yes,None,,,H0523-074-000
+Hearing Services,None,No,Yes,None,,,H0523-074-000
+Ambulance,Ground Ambulance,N/A,Yes,N/A,N/A,N/A,H0523-074-000
+Chiropractic,N/A,N/A,Yes,N/A,N/A,N/A,H0523-074-000
+Annual Routine Physical,Physical Exam,N/A,Yes,N/A,N/A,N/A,H0523-074-000
+Emergency Care,Emergency Services,N/A,Yes,N/A,N/A,N/A,H0523-074-000
+Cardiac Rehab,Cardiovascular Rehabilitation,N/A,Yes,N/A,N/A,N/A,H0523-074-000
+Hearing Services,Hearing Tests,N/A,Yes,N/A,N/A,N/A,H0523-074-000
+Ambulance,Ground Ambulance,Not applicable,Yes,None specified,No specific rules mentioned,Provider network requirements not specified,H0523-074-000
+Chiropractic,Manual manipulation of the spine to correct a subluxation is covered.,Not applicable,Yes,None specified,No specific rules mentioned,Provider network requirements not specified,H0523-074-000
+Annual Routine Physical,Inpatient or outpatient care,Not applicable,Yes,None specified,No specific rules mentioned,Provider network requirements not specified,H0523-074-000
+Emergency Care,Inpatient or outpatient care,Not applicable,Yes,None specified,No specific rules mentioned,Provider network requirements not specified,H0523-074-000
+Cardiac Rehab,Inpatient or outpatient care,Not applicable,Yes,None specified,No specific rules mentioned,Provider network requirements not specified,H0523-074-000
+Hearing Services,Inpatient or outpatient care,Not applicable,Yes,None specified,No specific rules mentioned,Provider network requirements not specified,H0523-074-000
+Ambulance,Ground Ambulance,No,Yes,None,None,None,H0523-074-000
+Chiropractic,None,No,Yes,None,None,None,H0523-074-000
+Annual Routine Physical,None,No,Yes,None,None,None,H0523-074-000
+Emergency Care,None,No,Yes,None,None,None,H0523-074-000
+Cardiac Rehab,None,No,Yes,None,None,None,H0523-074-000
+Hearing Services,None,No,Yes,None,None,None,H0523-074-000
